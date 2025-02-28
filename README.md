@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ddf5fd&height=120&text=Sua's%20GitHub&animation=twinkling&fontColor=d8d5d5&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ddf5fd&height=120&text=&animation=twinkling&fontColor=d8d5d5&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
@@ -19,6 +19,8 @@
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
