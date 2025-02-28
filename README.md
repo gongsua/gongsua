@@ -25,6 +25,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://songsua.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://songsua.tistory.com/"> </a>
           </div>  <br> 
+        <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
